@@ -45,6 +45,18 @@ select {
     font: inherit;
 }
 
+button {
+    padding: 0;
+    cursor: pointer;
+    color: inherit;
+    background-color: transparent;
+    border: none;
+}
+
+address {
+    font-style: normal;
+}
+
 @media (favors-reduced-motion: reduce) {
 
     *,
